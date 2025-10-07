@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/Users/deeznuts/Projects/cpp/first",
+    "command": "clang++ main.cpp -I/opt/homebrew/include -L/opt/homebrew/lib -lraylib -std=c++17",
+    "file": "main.cpp"
+  }
+]
